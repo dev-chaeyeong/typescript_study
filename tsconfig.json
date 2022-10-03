@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "allowJs": true, // JS 허용
+    "checkJs": true, // JS 에서 에러체크 허용
+    "noImplicitAny": true // any 타입 금지
+  }
+}
