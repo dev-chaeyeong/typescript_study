@@ -26,9 +26,9 @@
     - object 의 타입을 지정하는 방법 중 하나
     ```
     type ToDo = {
-       id: number
-       title: string
-       done: boolean
+       id: number;
+       title: string;
+       done: boolean;
     }
     ```
 
@@ -36,9 +36,9 @@
     - object 의 타입을 지정하는 방법 중 하나
     ```
     interface ItoDo {
-    id: number
-    title: string
-    done: boolean
+        id: number;
+        title: string;
+        done: boolean;
     }
     ```
 
